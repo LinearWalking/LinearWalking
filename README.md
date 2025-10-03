@@ -1,3 +1,8 @@
+# Updates
+Currently we provide a notebook to load and run the controller in MuJoCo for you to play with. Construction of the linear walking MPC problem will be pushed on Monday October 6th.
+
+# Linear Walking
+
 This repository contains an example code notebook for our paper "The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control". Find the project website [here](https://linearwalking.github.io/).
 
 # Installation
