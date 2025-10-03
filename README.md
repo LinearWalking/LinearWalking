@@ -20,7 +20,7 @@ source venv/bin/activate
 
 ### 3. Install Dependencies
 ```
-pip install numpy matplotlib h5py osqp scipy mediapy notebook
+pip install numpy matplotlib h5py osqp scipy mediapy notebook mujoco
 ```
 
 ### 4. Run the example notebook `linear_walking_quadruped.ipynb`
