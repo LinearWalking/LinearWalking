@@ -25,3 +25,17 @@ pip install numpy matplotlib h5py osqp scipy mediapy notebook mujoco
 
 ### 4. Run the example notebook `linear_walking_quadruped.ipynb`
 The problem data for the QP was generated in Julia. For more details, check out our [website](https://linearwalking.github.io/) and paper.
+
+# Citation
+If you find this code useful, please consider citing our paper:
+
+```
+@inproceedings{bishop2025linearwalking,
+      title={The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control},
+      author={Bishop, Arun and Alvarez-Padilla, Juan and Schoedel, Sam and Sow, Ibrahima S. and Chandrachud, Juee and Sharma, Sheitej and Kraus, Will and Park, Beomyeong and Griffin, Robert J.},
+      url = {https://arxiv.org/abs/2509.17884},
+      booktitle = {IEEE International Conference on Humanoid Robots},
+      year={2025},
+    }
+
+```
