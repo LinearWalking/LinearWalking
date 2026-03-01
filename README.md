@@ -1,5 +1,5 @@
 # Updates
-Currently we provide a notebook to load and run the controller in MuJoCo for you to play with. Construction of the linear walking MPC problem will be pushed on Monday October 6th.
+Currently we provide a notebook to load and run the controller in MuJoCo for you to play with.
 
 # Linear Walking
 
